@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Final Screen- Desktop Model](./src/assets/screenshots/Restaurant-About.png,)
+![Final Screen- Desktop Model](./src/assets/screenshots/Restaurant-About.png)
 ![Final Screen- Mobile Model](./src/assets/screenshots/Restaurant-Home-Mobile.png)
 
 ### Links
