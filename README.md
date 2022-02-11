@@ -1,6 +1,6 @@
 # Restaurant App
 
-This is a Tutorial implementation of [Responsive Restaurant App in React JS by Javascript mastery](https://www.youtube.com/watch?v=4oV65GVVits&t=10361s). I have worked on this as pert of improving my skills
+This is a Tutorial implementation of [Responsive Restaurant App in React JS by Javascript mastery](https://www.youtube.com/watch?v=4oV65GVVits&t=10361s). I have worked on this as part of improving my skills
 
 ## Table of contents
 
