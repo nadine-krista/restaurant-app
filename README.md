@@ -25,9 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Final Screen- Desktop Model](./src/assets/screenshots/Restaurant-About.png,./src/assets/screenshots/Restaurant-Believe.png)
-![Final Screen- Mobile Model](./src/assets/screenshots/Restaurant-Home-Mobile.png,
-./src/assets/screenshots/Restaurant-Specials-Mobile.png)
+![Final Screen- Desktop Model](./src/assets/screenshots/Restaurant-About.png,)
+![Final Screen- Mobile Model](./src/assets/screenshots/Restaurant-Home-Mobile.png)
 
 ### Links
 
